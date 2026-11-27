@@ -6,15 +6,18 @@
 
 # Hi, I'm Diana
 
-**Geospatial developer and analyst, based in Kenya.**
+**Full-stack geospatial developer and analyst, based in Kenya.**
 
-I build web GIS platforms and spatial models from satellite, survey and field data. Most of my work is for agriculture and health: mapping farms and monitoring crops, and working out how far people have to travel to reach care.
+I design and build geospatial systems end to end: the map interface people use, the APIs and processing behind it, and the databases that hold the spatial data. Alongside that I do the analysis and modelling the systems are built to serve. Most of my work is for agriculture and health: mapping farms and monitoring crops, and working out how far people have to travel to reach care.
 
 I'm also doing an MSc in Artificial Intelligence, and I'm using it to go deeper into machine learning on earth observation data and ecological niche modelling.
 
 ## What I work on
 
-- **Geospatial development.** Web GIS platforms with interactive maps, layer management and spatial APIs.
+- **Full-stack geospatial development.**
+  - Frontend: interactive web maps, drawing and editing tools, dashboards and charts.
+  - Backend: REST APIs, authentication, and satellite and raster processing.
+  - Databases: schema design, migrations, and storing and querying spatial data.
 - **Spatial analysis.** Remote sensing, vegetation health (NDVI), land use and land cover, zonal statistics.
 - **GeoAI.** Machine learning on satellite and spatial data, for classification, yield prediction and risk detection.
 - **Spatial modelling.** Travel-time and accessibility modelling, ecological niche modelling, suitability and risk mapping.
@@ -47,8 +50,10 @@ A Python pipeline for land use and land cover mapping. It loads a study-area bou
 
 ## Tools
 
-- **Geospatial:** MapLibre GL, OpenLayers, Google Earth Engine, PostGIS, QGIS
-- **Web:** Vue 3, Vite, Pinia, Tailwind CSS, Flask
+- **Frontend:** Vue 3, Vite, Pinia, PrimeVue, Tailwind CSS, MapLibre GL, OpenLayers, Chart.js
+- **Backend:** Python, Flask, REST APIs, JWT authentication, Google Earth Engine
+- **Databases:** PostgreSQL, PostGIS, SQLite, SQLAlchemy
+- **Desktop GIS:** QGIS
 - **Data and modelling:** Python, NumPy, SciPy, machine learning, remote sensing
 
 ## Right now
