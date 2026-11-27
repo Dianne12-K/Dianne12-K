@@ -6,9 +6,9 @@
 
 # Hi, I'm Diana
 
-**Full-stack geospatial developer and analyst, based in Kenya.**
+**Geospatial data analyst and full-stack geospatial developer, based in Kenya.**
 
-I design and build geospatial systems end to end: the map interface people use, the APIs and processing behind it, and the databases that hold the spatial data. Alongside that I do the analysis and modelling the systems are built to serve. Most of my work is for agriculture and health: mapping farms and monitoring crops, and working out how far people have to travel to reach care.
+I currently work as a geospatial data analyst, where I build spatial models and turn spatial data into answers. I also design and build geospatial systems end to end: the map interface people use, the APIs and processing behind it, and the databases that hold the spatial data. Most of my work is for agriculture and health: mapping farms and monitoring crops, and working out how far people have to travel to reach care.
 
 I'm also doing an MSc in Artificial Intelligence, and I'm using it to go deeper into machine learning on earth observation data and ecological niche modelling.
 
@@ -58,6 +58,7 @@ A Python pipeline for land use and land cover mapping. It loads a study-area bou
 
 ## Right now
 
+- Working as a geospatial data analyst, focused on spatial modelling
 - Studying for an MSc in Artificial Intelligence
 - Adding cross-farm analytics and yield reporting to the Smart Agriculture platform
 - Writing up more of my modelling work to share here
